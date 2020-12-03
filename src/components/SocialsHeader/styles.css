@@ -1,0 +1,26 @@
+.started-btn:hover {
+    background-color: #f07e74;
+    color: white;
+    transition: all ease 0.5s;
+}
+
+.social {
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    display: flex;
+}
+
+.socialsMini {
+    margin: 6px 12px;
+}
+
+.fab {
+    color: rgba(18, 17, 17, 0.4);
+    font-size: 16px;
+}
+
+.socialsMini:hover i {
+    color: #17d1ac;
+    transition: all ease 0.5s;
+}

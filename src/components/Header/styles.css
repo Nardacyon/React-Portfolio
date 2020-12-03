@@ -1,0 +1,33 @@
+.name {
+    font-family: calibri;
+    width: 500px;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    transform: translate(-20%, 50%);
+}
+
+.name p:nth-child(1), .name .details {
+    color: #16519f;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.name h1 {
+    font-family: Poppins;
+    font-size: 40px;
+    margin: 0;
+    letter-spacing: 3px;
+    color: #f07e74;
+}
+.started-btn {
+    width: 200px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4fcbe9;
+    color: #16519f;
+}
+
+
