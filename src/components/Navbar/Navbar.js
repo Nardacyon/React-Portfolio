@@ -12,7 +12,7 @@ export default class Navbar extends Component {
     render() {
         return(
             <nav className="NavbarItems">
-                <a href="/" className="navbar-logo">King</a>
+                <a href="/react-portfolio" className="navbar-logo">King</a>
 
                 <div class="toggle">
                     {/* replaced class menu */}
