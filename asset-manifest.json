@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b0213335.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.9a3b206f.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.9a3b206f.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.a2c9a36e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.a2c9a36e.js.map",
+    "static/js/2.68617a02.chunk.js": "/react-portfolio/static/js/2.68617a02.chunk.js",
+    "static/js/2.68617a02.chunk.js.map": "/react-portfolio/static/js/2.68617a02.chunk.js.map",
+    "static/js/3.41be3144.chunk.js": "/react-portfolio/static/js/3.41be3144.chunk.js",
+    "static/js/3.41be3144.chunk.js.map": "/react-portfolio/static/js/3.41be3144.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.b0213335.chunk.css.map": "/react-portfolio/static/css/main.b0213335.chunk.css.map",
+    "static/js/2.68617a02.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.68617a02.chunk.js.LICENSE.txt",
+    "static/media/GGBurger.26936886.png": "/react-portfolio/static/media/GGBurger.26936886.png",
+    "static/media/NoteTaker.136c1caa.PNG": "/react-portfolio/static/media/NoteTaker.136c1caa.PNG",
+    "static/media/blackjack.c7a01817.PNG": "/react-portfolio/static/media/blackjack.c7a01817.PNG",
+    "static/media/day-planner.0a9b8cb8.png": "/react-portfolio/static/media/day-planner.0a9b8cb8.png",
+    "static/media/weather.05f3040b.png": "/react-portfolio/static/media/weather.05f3040b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2c9a36e.js",
+    "static/js/2.68617a02.chunk.js",
+    "static/css/main.b0213335.chunk.css",
+    "static/js/main.9a3b206f.chunk.js"
+  ]
+}
