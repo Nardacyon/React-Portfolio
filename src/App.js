@@ -9,12 +9,15 @@ import Contact from './pages/Contact/Contact'
 function App() {
   return (
     <Router>
-      <Switch>
+      <main>
+        <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/about' exact component={About} />
         <Route path='/portfolio' exact component={Portfolio} />
         <Route path='/contact' exact component={Contact} />
-      </Switch>
+        </Switch>
+      </main>
+
 
     </Router>
 
