@@ -29,7 +29,7 @@ export default class Portfolio extends Component {
                         <div className="text-overlay">
                             <Link to="https://nardacyon.github.io/Day-Planner/" target="_blank" rel="noreferrer nofollow">Day Planner</Link>
                             <p>This app was one of my earlier works, its purpose is to help users plan out their work day. By inputting an event in the text area and clicking save, you can plan your day accordingly.</p>
-                            <Link className="repo" to="https://github.com/Nardacyon/Day-Planner/" target="_blank" rel="noreferrer nofollow">Github Repo Here!</Link>
+                            <Link className="repo" to="https://github.com/Nardacyon/Day-Planner/" target="_blank" >Github Repo Here!</Link>
                         </div>
                         <img src={day_planner} alt="Day planner app"/>
                     </div>
