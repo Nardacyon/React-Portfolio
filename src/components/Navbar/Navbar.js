@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import { MenuItems } from './MenuItems';
 import './styles.css';
 
@@ -12,7 +13,7 @@ export default class Navbar extends Component {
     render() {
         return(
             <nav className="NavbarItems">
-                <a href="/react-portfolio" className="navbar-logo">King</a>
+                <Link to="/react-portfolio" className="navbar-logo">King</Link>
 
                 <div class="toggle">
                     {/* replaced class menu */}
@@ -20,9 +21,9 @@ export default class Navbar extends Component {
                         {MenuItems.map((item, index) => {
                             return (
                                 <li key={index}>
-                                    <a className={item.cName} href={item.url}>
+                                    <Link className={item.cName} to={item.url}>
                                         {item.title}
-                                    </a>
+                                    </Link>
                                 </li>
 
                             )
